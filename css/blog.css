@@ -1,0 +1,31 @@
+#art{
+	background:#D9D7D7;
+	margin: 3%;
+	padding:0 -14px;
+}
+.imagen{
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+    margin-left: -13px;
+    margin-bottom: -3px;
+}
+h4{
+	margin-top: 10px;
+	margin-bottom:5px; 
+}
+.fecha{
+	font-size: 15px;
+	color: gray;
+}
+.boton{
+	background:#030E1C;
+	padding-left: 50px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin-right: 520px;
+	margin-top: 10px;
+	color:white;
+	border-radius: 5px;
+
+}

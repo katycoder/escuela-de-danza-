@@ -1,0 +1,73 @@
+
+.baner{
+	background-image: url("../img/dance_7.jpg");
+	height: 450px;
+	background-attachment: fixed;
+}
+.texto{
+	background:black;
+	opacity: 0.5;
+	width: 450px;
+	height: 200px;
+	margin: 0px auto;
+	padding: 3%;
+	position: relative;
+	top: 210px;
+	color:black;
+}
+.txt{
+	color:white;
+	text-align: center;
+}
+.fondo{
+	background-image:url("../img/cubes.png");
+	padding: 5%;
+
+}
+.titulo{
+	color: gray;
+	text-align: center;
+	margin: 6%;
+}
+.raya{
+	width: 270px;
+	height: 3px;
+	background:gray;
+	position: relative;
+	left: 4%;
+}
+.pilar{
+	text-align: center;
+	color: gray;
+	padding: 6%;
+}
+#padre{
+	position: relative;
+	display: block;
+}
+
+.inst{
+	margin: 5%;
+}
+.instructor{
+    position: absolute;
+    clip: rect(0px,249px,182px,0px);
+    max-width: 230px;
+    max-height: 328px;
+    padding: 0.5%;
+}
+#letra{
+	margin-top: 20%;
+	padding-left: 2%;
+
+}
+#texto{
+	margin-bottom: 10%;
+	padding-left: 2%;
+}
+.frase{
+		color: #030E1C;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 5%;
+}

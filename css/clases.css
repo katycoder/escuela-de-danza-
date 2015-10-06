@@ -1,0 +1,60 @@
+.col-4:first-child{
+	background-image: url("../img/dance_12.jpg");
+	width: 31%;
+	height: 400px;
+	background-size: cover;
+	margin: 1%;
+	margin-left: 5px;
+}
+.col-4:nth-child(2){
+	background-image: url("../img/breakdance.jpg");
+	width: 31%;
+	height: 400px;
+	background-size: cover;
+	margin: 1%;
+	margin-left: 15px;
+}
+.col-4:nth-child(3){
+	background-image: url("../img/lirical-jazz.jpg");
+	width: 31%;
+	height: 400px;
+	background-size: cover;
+	margin: 1%;
+	margin-left: 15px;
+}
+
+.row:nth-child(3) .col-4:first-child{
+	background-image: url("../img/arabe.jpg");
+	width: 31%;
+	height: 400px;
+	background-size: cover;
+	margin: 1%;
+	margin-left: 5px;
+}
+.row:nth-child(3) .col-4:nth-child(2){
+	background-image: url("../img/little.jpg");
+	width: 31%;
+	height: 400px;
+	background-size: cover;
+	margin: 1%;
+	margin-left: 15px;
+}
+.row:nth-child(3) .col-4:nth-child(3){
+	background-image: url("../img/yoga.jpg");
+	width: 31%;
+	height: 400px;
+	background-size: cover;
+	margin: 1%;
+	margin-left: 15px;
+}
+.cuadro{
+	height: 100px;
+	background:black;
+	opacity: 0.7;
+	color: white;
+	padding-top: 10px;
+	text-align: center;
+	margin: auto;
+	position: relative;
+	top: 150px;
+}
